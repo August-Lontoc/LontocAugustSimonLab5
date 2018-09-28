@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">LontocAugustSimonLab5</string>
+
+    <string name="act1">ACTIVITY 1</string>
+    <string name="act2">ACTIVITY 2</string>
+
+    <string name="loc">LOCATION:</string>
+    <string name="dis">DISTANCE:</string>
+    <string name="map">MAP</string>
+
+    <string name="nam_act1">Felix Y. Manalo National Historical Landmark</string>
+    <string name="loc_act1">F.Manalo, Taguig, 1637 Kalakhang Maynila</string>
+    <string name="dis_act1">12.85 Kilometers from UST</string>
+
+    <string name="nam_act2">Philippine Arena</string>
+    <string name="loc_act2">Ciudad de Victoria, Santa Maria, Bulacan</string>
+    <string name="dis_act2">20.82 Kilometers from UST</string>
+</resources>
